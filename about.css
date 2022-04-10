@@ -55,13 +55,10 @@ font-size: 10px;
    margin-right: auto;
    margin-left: auto;
    width: 70%;
- 	 font-size: 2rem;
- 	 color: white;
- 	 line-height: 5rem;
- 	 margin-bottom: 5rem;
-  
-  
-
+  font-size: 2rem;
+  color: white;
+  line-height: 5rem;
+  margin-bottom: 5rem;
  }
  .button{
  	margin-bottom:;
@@ -176,6 +173,15 @@ ul i{
   }
 }
 @media screen and(max-width: 600px){
+p{
+   margin-right: auto;
+   margin-left: auto;
+   width: 70%;
+  font-size: 20px;
+  color: white;
+  line-height: 6rem;
+  margin-bottom: 2rem;
+ }
 	.footer{
 	padding-bottom:20px;
 	}
