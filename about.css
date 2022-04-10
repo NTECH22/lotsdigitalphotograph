@@ -176,6 +176,9 @@ ul i{
   }
 }
 @media screen and(max-width: 600px){
+	.footer{
+	padding-bottom:20px;
+	}
   .footer-items{
     width: 100%;
   }
